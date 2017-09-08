@@ -1,0 +1,6 @@
+FTP ACCOUNT
+
+host		:	ftp.wowimageagency.com
+user		:	sms@wowimageagency.com
+password	:	63=nTG]%x60K
+port		:	21
